@@ -1,0 +1,82 @@
+[
+  {
+    "features": "raw_mfcc",
+    "classifier": "Logistic Regression",
+    "accuracy": 0.94
+  },
+  {
+    "features": "raw_mfcc",
+    "classifier": "SVM_RBF",
+    "accuracy": 0.94
+  },
+  {
+    "features": "raw_mfcc",
+    "classifier": "Random Forest",
+    "accuracy": 0.93
+  },
+  {
+    "features": "raw_mfcc",
+    "classifier": "GDA_LDA",
+    "accuracy": 0.695
+  },
+  {
+    "features": "pca_50",
+    "classifier": "Logistic Regression",
+    "accuracy": 0.87
+  },
+  {
+    "features": "pca_50",
+    "classifier": "SVM_RBF",
+    "accuracy": 0.885
+  },
+  {
+    "features": "pca_50",
+    "classifier": "Random Forest",
+    "accuracy": 0.93
+  },
+  {
+    "features": "pca_50",
+    "classifier": "GDA_LDA",
+    "accuracy": 0.795
+  },
+  {
+    "features": "cnn_layer1",
+    "classifier": "Logistic Regression",
+    "accuracy": 0.94
+  },
+  {
+    "features": "cnn_layer1",
+    "classifier": "SVM_RBF",
+    "accuracy": 0.93
+  },
+  {
+    "features": "cnn_layer1",
+    "classifier": "Random Forest",
+    "accuracy": 0.95
+  },
+  {
+    "features": "cnn_layer1",
+    "classifier": "GDA_LDA",
+    "accuracy": 0.93
+  },
+  {
+    "features": "cnn_layer2",
+    "classifier": "Logistic Regression",
+    "accuracy": 0.935
+  },
+  {
+    "features": "cnn_layer2",
+    "classifier": "SVM_RBF",
+    "accuracy": 0.935
+  },
+  {
+    "features": "cnn_layer2",
+    "classifier": "Random Forest",
+    "accuracy": 0.96
+  },
+  {
+    "features": "cnn_layer2",
+    "classifier": "GDA_LDA",
+    "accuracy": 0.94
+  }
+]
